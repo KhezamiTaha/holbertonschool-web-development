@@ -23,6 +23,7 @@ This project provides a foundational understanding of HTML (HyperText Markup Lan
 ## What is HTML?
 HTML (HyperText Markup Language) is the standard language for creating and structuring web pages. It uses tags and elements to define the structure of a document, making it readable and accessible to browsers.
 
+![HTML Example](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s)
 ---
 
 ## How to Create an HTML Page from a Wireframe
