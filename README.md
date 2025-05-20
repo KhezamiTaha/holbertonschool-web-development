@@ -113,9 +113,6 @@ Grouping content
 
 A pixel-perfect recreation of a Figma design using only HTML and CSS—no libraries, no frameworks.
 
-### Final Website Preview
-
-![Page Preview](https://imgur.com/V7bGgNn.png)
 
 ### Key Sections
 
