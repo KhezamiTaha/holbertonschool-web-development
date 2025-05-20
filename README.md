@@ -169,7 +169,7 @@ Figma Integration
 ## Getting Started
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/holbertonschool-web-development.git
+git clone https://github.com/KhezamiTaha/holbertonschool-web-development.git
 cd holbertonschool-web-development
 ```
 
